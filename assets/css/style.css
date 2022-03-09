@@ -182,14 +182,6 @@ section {
   float: left;
   width: 65%;
 }
-.text-left {
-  text-align: left;
-}
-
-.text-right {
-  text-align: right;
-  
-}
 .trainer-bio h3 {
   font-size: 32px;
   margin-bottom: 8px;
@@ -205,11 +197,21 @@ section {
   font-size: 17px;
   line-height: 1.3;
 }
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}
+
 /* REACH OUT STYLES START */
+
 .contact {
   text-align: center;
   background: #024e76;
 }
+
 .contact h2 {
   color: #fce138;
 }
@@ -230,7 +232,8 @@ section {
   font-size: 32px;
 }
 
-.contact-info p, .contact-info address {
+.contact-info p,
+.contact-info address {
   margin: 20px 0;
   line-height: 1.5;
   font-size: 20px;
@@ -240,18 +243,4 @@ section {
 .contact-info a {
   color: #fce138;
 }
-
-.hero {
-  margin: 20px;
-  font-size: 20px;
-  background-color: white;
-  color: blue;
-}
-
-/* these two colors will override the ones above in .hero */
-.hero-secondary {
-  background-color: black;
-  color: red;
-}
-
 /* REACH OUT STYLES END */
