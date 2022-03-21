@@ -11,6 +11,6 @@ A website that offers fitness training services.
 https://sammylwolfson.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by [your name]
+Made by Sammy Wolfson
 
-### ©️2019 Run Buddy, Inc 
+### ©️2022 Run Buddy, Inc 
